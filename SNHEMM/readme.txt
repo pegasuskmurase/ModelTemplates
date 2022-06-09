@@ -9,7 +9,7 @@ Data files of time-dependent neutrino and gamma-ray spectra [CITATION: Murase Ph
 7. dN_gamma/dE [eV^-1 s^-1] generated gammas
 8. dN_neutrino/dE [eV^-1 s^-1] generated neutrinos (all flavors)
 9. dN_gamma/dE [eV^-1 s^-1] optical 
-10. IGNORE (dN_gamma/dE [eV^-1 s^-1] X rays)
+10. dN_gamma/dE [eV^-1 s^-1] thermal bremsstrahlung
 11. IGNORE (4 pi d^2)
 12. IGNORE (reference CTA sensitivity)
 13. IGNORE (reference Fermi sensitivity)
