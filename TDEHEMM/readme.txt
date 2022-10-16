@@ -1,4 +1,4 @@
-Data files of neutrino and gamma-ray spectra [CITATION: Murase et al. ApJ (2020)]
+Data files of neutrino and gamma-ray spectra [CITATION: Murase, Kimura, Zhang, Oikonomou & Petropoulou Astrophys.J. 902 (2020) 108]
 
 1. Energy: E [eV]  
 2. IGNORE (dN_gamma/dE [eV^-1 s^-1 cm^-2] with EBL)
