@@ -15,9 +15,11 @@ Data files of neutrino and gamma-ray spectra [CITATION: Murase, Kimura, Zhang, O
 13. IGNORE (reference Fermi sensitivity)
 
 
-# All fluxes are evaluated at 1 Mpc
+# All fluxes are evaluated at 1 Mpc 
 # $1*$1*$3*1.2*1e50 gives the differential gamma-ray luminosity
 # $1*$1*$8*1.2*1e50 gives the differential neutrino luminosity
+# EBL/CMB attenuation needs to be included for photons
+# For corona/RIAF models, attenuation inside TDE debris (that can be relevant for photons especially above 100 GeV) is not included
 # Cosmic-ray normalization can be rescaled
   - CoronaM1e7: CR pressure ratio=0.464 
   - CoronaM1e7: CR pressure ratio=0.306
