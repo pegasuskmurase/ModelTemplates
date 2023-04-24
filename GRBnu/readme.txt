@@ -8,3 +8,4 @@ MI13ENB
 
 QTnuBurst
 [CITATION: Murase, Kashiyama & Meszaros Phys.Rev.Lett. 111 (2013) 131102, Murase, Mukhopadhyay, Kheirandish, Kimura & Fang Astrophys.J.Lett. 941 (2022) L10]
+Normalization is set for a comoving nucleon energy of 10^53 erg
