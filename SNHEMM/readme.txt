@@ -1,4 +1,4 @@
-Data files of time-dependent neutrino and gamma-ray spectra [CITATION: Murase Phys.Rev.D 97 (2018) 081301(R), Murase (2022)]
+Data files of time-dependent neutrino and gamma-ray spectra [CITATION: Murase Phys.Rev.D 97 (2018) 081301(R), Murase (2023)]
 
 1. Energy: E [eV]  
 2. IGNORE (dN_gamma/dE [eV^-1 s^-1] with EBL)
@@ -16,6 +16,6 @@ Data files of time-dependent neutrino and gamma-ray spectra [CITATION: Murase Ph
 14. 1=if CR acceleration is allowed, 0=if CR acceleration is suppressed
 
 # $1*$1*$8*$14 gives the differential neutrino luminosity 
-# (k+1)th block is for spectra at 1e3*pow(10.,0.1*k) sec [1e3 sec, 1e8 sec] for IIP, II-L/IIb, Ibc and II-PD0_1.
-# (k+1)th block is for spectra at 1e5*pow(10.,0.1*k) sec [1e5 sec, 1e8 sec] for IIn and II-PD1_0Rw1e15.   
+# (k+1)th block is for spectra at 1e3*pow(10.,0.1*k) sec [1e3 sec, 1e8 sec] for IIP, II-L/IIb, Ibc and D0_1/D0_01.
+# (k+1)th block is for spectra at 1e5*pow(10.,0.1*k) sec [1e5 sec, 1e8 sec] for IIn and D1_0.   
 
