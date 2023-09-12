@@ -22,7 +22,7 @@ Data files of neutrino and gamma-ray spectra [CITATION: Murase, Kimura, Zhang, O
 # For corona/RIAF models, attenuation inside TDE debris (that can be relevant for photons especially above 100 GeV) is not included
 # Cosmic-ray normalization can be rescaled
   - CoronaM1e7: CR pressure ratio=0.464 
-  - CoronaM1e7: CR pressure ratio=0.306
+  - CoronaM3e7: CR pressure ratio=0.306
   - RIAFM1e7: CR pressure ratio=0.638
   - RIAFM3e7: CR pressure ratio=0.566
   - shock: CR luminosity ratio=1
