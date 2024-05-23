@@ -1,4 +1,4 @@
-Data files of time-dependent neutrino and gamma-ray spectra [CITATION: Murase Phys.Rev.D 97 (2018) 081301(R), Murase arXiv:2312.17239]
+Data files of time-dependent neutrino and gamma-ray spectra [CITATION: Murase Phys.Rev.D 97 (2018) 081301(R), Murase Phys.Rev.D 109 (2024) 103020]
 
 1. Energy: E [eV]  
 2. IGNORE (dN_gamma/dE [eV^-1 s^-1] with EBL)
