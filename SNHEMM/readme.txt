@@ -28,8 +28,8 @@ SN2023ixf/II_D0_003Rw1e15: II (CCSM) for D_*=0.003 and R_w=1e15 cm (based on SN 
 9. dN_gamma/dE [eV^-1 s^-1] optical 
 10. dN_gamma/dE [eV^-1 s^-1] thermal bremsstrahlung
 11. IGNORE (4 pi d^2)
-12. IGNORE (reference CTA sensitivity)
-13. IGNORE (reference Fermi sensitivity)
+12. IGNORE (reference Fermi sensitivity)
+13. IGNORE (reference CTA sensitivity)
 14. 1=if CR acceleration is allowed, 0=if CR acceleration is suppressed
 
 # $1*$1*$8*$14 gives the differential neutrino luminosity, only data above 0.3 GeV may be used
