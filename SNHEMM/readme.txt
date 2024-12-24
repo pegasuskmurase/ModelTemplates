@@ -32,7 +32,7 @@ SN2023ixf/II_D0_003Rw1e15: II (CCSM) for D_*=0.003 and R_w=1e15 cm (based on SN 
 13. IGNORE (reference CTA sensitivity)
 14. 1=if CR acceleration is allowed, 0=if CR acceleration is suppressed
 
-# $1*$1*$8*$14 gives the differential neutrino luminosity, only data above 0.3 GeV may be used
+# $1*$1*$8*$14 gives the differential neutrino luminosity, only data above 0.3 GeV may be used.
 # (k+1)th block is for spectra at 1e3*pow(10.,0.1*k) sec [1e3 sec, 1e8 sec] for IIP, II-L/IIb, Ibc and D0_1/D0_01.
 # (k+1)th block is for spectra at 1e5*pow(10.,0.1*k) sec [1e5 sec, 1e8 sec] for IIn and D1_0.   
 
