@@ -8,6 +8,6 @@ Data files of all-sky blazar neutrino spectra [CITATION: Murase, Inoue & Dermer 
 6. IGNORE 
 7. IGNORE
 
-# 1st block is for BLR/Dust torus
+# 1st block is for BLR/Dust Torus
 # 2nd block is for Blazar Zone
 # Normalization is set for a cosmic-ray loading of 10
