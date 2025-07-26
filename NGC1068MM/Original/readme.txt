@@ -17,5 +17,5 @@ Data files of neutrino and gamma-ray spectra [CITATION: Murase, Kimura & Meszaro
 # $1*$1*$8 gives the differential neutrino flux at a source distance of 1 Mpc, only data above 0.3 GeV may be used.
 # For both neutrinos and gamma rays, the source distance (10-14.4 Mpc) must be properly rescaled to be consistent with the IceCube data. The fiducial rescaling factors are:
 0.01000 for FinalFluxLx43_0eta70 [Murase, Kimura & Meszaros Phys.Rev.Lett. 125 (2020) 011101]
-0.00482 for FinalFluxLx43_477eta70 [Ajello et al. Astrophys.J.Lett. 954 (2023) L49]
-0.12983 for FinalFluxSBGLg41_91 [Ajello et al. Astrophys.J.Lett. 954 (2023) L49]
+0.00482 for FinalFluxLx43_477eta70 [Ajello, Murase & McDaniel Astrophys.J.Lett. 954 (2023) L49]
+0.12983 for FinalFluxSBGLg41_91 [Ajello, Murase & McDaniel Astrophys.J.Lett. 954 (2023) L49]
