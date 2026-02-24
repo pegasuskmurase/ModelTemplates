@@ -10,5 +10,5 @@ Data files of all-sky neutrino and gamma-ray spectra [CITATION: Murase, Kimura &
 8. IGNORE
 
 # Normalization for Model A: multiply 1.3/68.97 only for Phi_nu and Phi_gamma
-# Normalization for Model B: multiply (0.5/15.14) only for Phi_nu and Phi_gamma
+# Normalization for Model B: multiply 0.5/15.14 only for Phi_nu and Phi_gamma
 # Normalization for Model C: multiply 2/21.07 only for Phi_nu and Phi_gamma
